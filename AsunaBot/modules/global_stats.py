@@ -80,8 +80,8 @@ async def global_stats(_, message):
     karmas_chats_count = _karmas["chats_count"]
 
     # Contributors/Developers count and commits on github
-    url = "https://api.github.com/repos/thehamkercat/AsunaBot/contributors"
-    rurl = "https://github.com/thehamkercat/AsunaBot"
+    url = "https://api.github.com/repos/Zer0-Tw0/AsunaBot/contributors"
+    rurl = "https://github.com/Zer0-Tw0/AsunaBot"
     developers = await fetch(url)
     commits = 0
     for developer in developers:
