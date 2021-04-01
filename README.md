@@ -26,7 +26,7 @@ Edit **config.py** with your own values
 
 # Run
 ```sh
-$ python3 -m wbb
+$ python3 -m AsunaBot
 ```
 
 
