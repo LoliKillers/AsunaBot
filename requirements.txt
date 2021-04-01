@@ -1,0 +1,15 @@
+python-arq
+TgCrypto
+aiohttp
+aiofiles
+future
+psutil
+pyrogram
+speedtest-cli
+uvloop
+youtube_dl
+search_engine_parser
+cryptography
+googletrans
+motor
+dnspython
