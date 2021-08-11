@@ -14,7 +14,7 @@ Just Another Telegram Bot Written In Python Using Pyrogram.
 ## Install Locally Or On A VPS
 
 ```sh
-$ git clone https://github.com/Zer0-Tw0/AsunaBot
+$ git clone https://github.com/LoliKillers/AsunaBot
 
 $ cd AsunaBot
 
